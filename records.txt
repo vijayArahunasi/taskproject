@@ -1,0 +1,5 @@
+First Name, Last Name, Age, Sex, Stream
+Aditya, Sharma, 18, M, Science
+Leena, Sheety, 17, F, Arts
+John, Doe, 25, Male, Science
+Jane, Smith, 30, Female, Arts
